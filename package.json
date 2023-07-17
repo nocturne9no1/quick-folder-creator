@@ -4,7 +4,7 @@
   "displayName": "quick-folder-creator",
   "description": "make a folder with files quickly",
   "icon": "resources/icon.jpeg",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "engines": {
     "vscode": "^1.79.0"
   },
